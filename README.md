@@ -24,4 +24,4 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 
 * Lopullinen palautus: TBD
 
-* Ilmoittaudu kurssille [Weboodissa](https://weboodi.helsinki.fi/hy/opettaptied.jsp?OpetTap=122468690&html=0)
+* Ilmoittaudu kurssille [Weboodissa](https://weboodi.helsinki.fi/hy/opettaptied.jsp?OpetTap=122509137&html=1)
