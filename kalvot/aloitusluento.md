@@ -1,6 +1,6 @@
 % Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit (Tiralabra)
 % Saska Dönges
-% 19.12.2017
+% 17.1.2018
 
 # Ohjaajat
 
@@ -10,7 +10,7 @@
 
 - Telegram-kanava https://t.me/tkttiralabra/
 - IRC-kanava **#tiralabra2017** @ IRCnet
-- Kurssisivu https://github.com/TiraLabra/Joululabra-2017
+- Kurssisivu https://github.com/TiraLabra/2018_kevat_P3
 
 # Mistä kyse?
 
@@ -76,7 +76,7 @@
     - Opiskelijat kirjoittavat palautetta toisen projektista
     - Tarkoitus oppia lukemaan ja ymmärtämään toisten koodia
     - Pisteitä tarjolla!
-    - Maksimipisteet katselmoinnista on **2**. Eli täysiin pisteisiin vaaditaan hiukan javalabraa laajempaa palautetta.
+    - Maksimipisteet katselmoinnista on **2**.
 
 # Kurssin kulku
 
@@ -97,6 +97,6 @@
 # Kiitos!
 
 - **Tervetuloa kurssille!**
-- Kaikki tarvittava löytyy kurssisivulta: https://github.com/TiraLabra/Joululabra-2017
+- Kaikki tarvittava löytyy kurssisivulta: https://github.com/TiraLabra/2018_kevat_P3
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Jään hetkeksi paikalle luennon jälkeen vastailemaan kysymyksiin
