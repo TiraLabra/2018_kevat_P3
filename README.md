@@ -18,10 +18,10 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 | **7**<br>12.2.-<br>18.2. |  |  |  |  | **Paja**<br>15-19<br>Yläpaja | **DL5**<br>01:59<br> |  |
 | **8**<br>19.2.-<br>25.2. |  |  |  |  | **Paja**<br>15-19<br>Yläpaja | **DL6**<br>01:59<br> |  |
 | **9**<br>26.2.-<br>4.3. |  |  |  |  | **Paja**<br>15-19<br>Yläpaja |  |  |
-| **9**<br>26.2.-<br>4.3. |  |  |  |  | **Valmis**<br>23:59 |  |  |
+| **9**<br>5.3.-<br>11.3. |  |  | **Demo**<br>14-16  |  | **Valmis**<br>23:59 |  |  |
 
 * **HUOM!** **Paja-ajat ja luokat saattavat muuttua kurssin aikana.**
 
-* Lopullinen palautus: TBD
+* Lopullinen palautus: Perjantaina 9.3, 23:59
 
 * Ilmoittaudu kurssille [Weboodissa](https://weboodi.helsinki.fi/hy/opettaptied.jsp?OpetTap=122509137&html=1)
